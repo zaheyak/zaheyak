@@ -24,5 +24,7 @@
 - Session management and secure authentication in Node.js/Express  
 - Clean Architecture and system design patterns  
 - AI-assisted development workflows
+- B.Sc. in Software Engineering — The Open University of Israel  
+Includes academic mathematics courses such as Calculus, Linear Algebra, and Discrete Mathematics.
 
 
