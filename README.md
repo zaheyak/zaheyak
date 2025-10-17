@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Zaheya Kdmany
 
-<!--
-**zaheyak/zaheyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education & Professional Training
 
-Here are some ideas to get you started:
+- **Diploma in Software Engineering** — Technion (Haifa)  
+- **Professional Training in Full Stack Development & Artificial Intelligence**  
+  Hands-on program where candidates develop a collaborative AI-powered platform, each responsible for designing and implementing an independent microservice.  
+- **Currently Pursuing:** B.Sc. in Software Engineering student — The Open University of Israel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Skills
+**Programming Languages:** C++, Python, Java, JavaScript  
+**Backend & Databases:** Node.js, MySQL, MongoDB  
+**Frontend:** React, HTML, CSS  
+**Data & Analysis:** Data Analysis, Matplotlib  
+**Tools & Platforms:** Git, UNIX Shell
+
+
+
+## Currently Learning
+
+- Advanced data structures and algorithms  
+- Session management and secure authentication in Node.js/Express  
+- Clean Architecture and system design patterns  
+- AI-assisted development workflows
+
+
